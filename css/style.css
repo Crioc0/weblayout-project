@@ -202,7 +202,6 @@ html {
 
 .header__search-btn:focus {
   outline: 3px solid var(--dark-purple);
-  background-color: var(--dark-purple);
 }
 
 .header__search-btn:hover > .header__search-logo > rect,
@@ -848,7 +847,7 @@ html {
   /* about */
   .about {
     padding-top: 8.8rem;
-    padding-bottom: 7.3rem; 
+    padding-bottom: 7.3rem;
   }
 
 
@@ -1060,7 +1059,7 @@ html {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
-  
+
   .hero__container{
     display: flex;
     flex-direction: column;
@@ -1262,7 +1261,7 @@ html {
     width: 97px;
     height :22px;
   }
-  
+
   .footer__social-list {
     margin-bottom: 1.8rem;
   }
